@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings" >
+
+    <PreferenceCategory android:title="@string/pre_cate_normal" >
+        <PreferenceScreen
+            android:key="developers"
+            android:summary="@string/summary_developer"
+            android:title="@string/title_developer" >
+            
+        </PreferenceScreen>
+
+        <Preference
+            android:key="app_mark"
+            android:summary="@string/summary_app_version"
+            android:title="@string/title_app_version" />
+        <Preference
+            android:key="bug_feedback"
+            android:summary="@string/summary_feedback"
+            android:title="@string/title_feedback" />
+        <Preference
+            android:key="releasetime"
+            android:summary="@string/summary_releasetime"
+            android:title="@string/title_releasetime" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pre_cate_func" >
+        <Preference
+            android:key="fun_screenshot"
+            android:summary="@string/summary_screenshot"
+            android:title="@string/title_screenshot" />
+        <Preference
+            android:key="fun_exit"
+            android:summary="@string/summary_exit"
+            android:title="@string/title_exit" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
