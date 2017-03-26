@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">随摇截图</string>
+    <string name="screen_shot">截图</string>
+    <string name="share">分享</string>
+    <string name="share_pciture">分享图片</string>
+    <string name="no_root_not_use">没有权限，不能工作.</string>
+    <string name="notification">您刚截的图</string>
+    
+    <!--  Activity -->
+    <string name="title_exit">退出</string>
+    <string name="summary_exit">点击退出</string>
+    
+    <string name="title_screenshot">截图</string>
+    <string name="summary_screenshot">点击截图或者按Home键切到后台，摇一摇即可截屏。</string>
+    
+    <string name="title_app_version">软件版本</string>
+    <string name="summary_app_version">开发版(若在运行中出现错误提示，请使用不出错误的其他截屏软件截下图发给我，没有报酬)</string>
+    
+    <string name="title_feedback">Bug反馈</string>
+    <string name="summary_feedback">hujianfei@360.cn</string>
+    
+    <string name="title_releasetime">开发时间</string>
+    <string name="summary_releasetime">2014.07.21</string>
+    
+    <string name="title_developer">开发者</string>
+    <string name="summary_developer">"&#64;"互联网的飞虫</string>
+    
+    <string name="pre_cate_normal">常规</string>
+    <string name="pre_cate_func">功能区</string>
+    
+    <string name="error_message">错误提示：</string>
+    
+    <string name="ticker_text">正在保存屏幕截图...</string>
+</resources>

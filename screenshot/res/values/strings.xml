@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShakeSreenShot</string>
+    <string name="screen_shot">ScreenShot</string>
+    <string name="share">Share</string>
+    <string name="share_pciture">SharePicture</string>
+    <string name="no_root_not_use">No Root，Not Work！</string>
+    <string name="notification">The Screen you cap</string>
+    
+    <!-- Activity -->
+    <string name="title_exit">Exti</string>
+    <string name="summary_exit">Press Exit</string>
+    
+    <string name="title_screenshot">Screenshot</string>
+    <string name="summary_screenshot">Press Screenshot</string>
+    
+    <string name="title_app_version">App Version</string>
+    <string name="summary_app_version">For Myself</string>
+    
+    <string name="title_feedback">Bug Feedback</string>
+    <string name="summary_feedback">hujianfei@360.cn</string>
+    
+    <string name="title_releasetime">Releasetime</string>
+    <string name="summary_releasetime">2014.07.21</string>
+    
+    <string name="title_developer">Developer</string>
+    <string name="summary_developer">jianfei_hu</string>
+    
+    <string name="pre_cate_normal">Normal</string>
+    <string name="pre_cate_func">Ribbon</string>
+    
+    <string name="error_message">error : </string>
+</resources>
